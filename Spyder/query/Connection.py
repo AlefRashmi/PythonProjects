@@ -15,7 +15,7 @@ import datetime
 
 ##import cur
 
-con=psycopg2.connect("dbname=alefdatalake host=bg-nat.alefed.com port=5439 user=alef_bd_ireland password=A3fgh789po")
+con=psycopg2.connect("")
 
 
 ##cur = con.cursor()
